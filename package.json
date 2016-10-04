@@ -1,0 +1,20 @@
+{
+  "name": "FizzBuzzJS-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floodpeak/KataFizzBuzzJS-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floodpeak/KataFizzBuzzJS-9/issues"
+  },
+  "homepage": "https://github.com/floodpeak/KataFizzBuzzJS-9#readme"
+}
